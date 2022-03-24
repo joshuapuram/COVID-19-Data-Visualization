@@ -9,7 +9,7 @@ Data Analysis and Visualization on COVID-19 data using different packages in Pyt
 
 ![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/newplot.png)
 
-### World-Wide COVID-19 Cases on Map
+### COVID-19 Cases Density on World Map
 
 To see the time-lapse, go to the jupyter notebook.
 ![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/2nd%20plot.png)
@@ -27,6 +27,23 @@ To see the time-lapse, go to the jupyter notebook.
 
 ![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/5th%20plot.png)
 
-### Choropleth Map
+### Confirmed Cases with Choropleth Map
 
 ![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/6th%20plot.png)
+
+### Confirmed and Death Cases with Static Colormap
+
+
+### Confirmed Cases and Death Cases side by side
+
+
+### Deaths and Recoveries per 100 Cases
+
+
+### New Cases and No. of Countries 
+
+
+### Top 15 Countries Case Analysis
+
+
+
