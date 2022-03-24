@@ -33,17 +33,21 @@ To see the time-lapse, go to the jupyter notebook.
 
 ### Confirmed and Death Cases with Static Colormap
 
+![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/7th%20plot.png)
+
+
 
 ### Confirmed Cases and Death Cases side by side
 
+![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/8th%20plot.png)
 
 ### Deaths and Recoveries per 100 Cases
-
+![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/9th%20plot.png)
 
 ### New Cases and No. of Countries 
-
+![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/10th%20plot.png)
 
 ### Top 15 Countries Case Analysis
 
-
+![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/11th%20plot.png)
 
