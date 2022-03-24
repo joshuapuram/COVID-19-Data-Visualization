@@ -14,9 +14,11 @@ Data Analysis and Visualization on COVID-19 data using different packages in Pyt
 To see the time-lapse, go to the jupyter notebook.
 ![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/2nd%20plot.png)
 
-### Cases over time with Area-Plot
+### Cases over time with Tree Map
 
 ![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/3rd%20plot.png)
+
+### Cases over time with Area Plot
 
 ![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/4th%20plot.png)
 
