@@ -1,9 +1,9 @@
 # COVID-19-Data-Visualization
 Data Analysis and Visualization on COVID-19 data using different packages in Python.
 
-
-* Used COVID-19 Data from John Hopkins University to conduct Data Visualization.
+* Used COVID-19 Data from John Hopkins University to conduct Data Visualization and Analysis.
 * Used a variety of packages(plotly, folium, maplotlib, pandas, numpy, etc.) in python.
+* Plotted Tree Maps, Area Plot, Folium Maps, Choropleth Map, Static Colormap, etc.,
 
 ### World-Wide COVID-19 Cases
 
