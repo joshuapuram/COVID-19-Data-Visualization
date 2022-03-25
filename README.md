@@ -16,10 +16,11 @@ To see the time-lapse, go to the jupyter notebook.
 
 ### Cases over time with Tree Map
 
+![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/3rd%20plot_new.png)
 
 ### Cases over time with Area Plot
 
-
+![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/4th%20plot_new.png)
 
 ### Folium Map
 
